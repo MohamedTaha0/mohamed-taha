@@ -1,0 +1,337 @@
+body{
+   overflow-x: hidden;
+}
+nav {
+  margin: 20px;
+  position: absolute;
+  top: 100px;
+  left: 320px;
+
+}
+.search{
+  position: absolute;
+  top:40px;
+  left: 100px;
+
+}
+.search input{
+  width: 180px;
+  height: 30px;
+  border: none;
+}
+.loi button{
+  border: 4px solid black;
+  height: 35px;
+  width: 120px;
+  position: absolute;
+  left: 600px;
+  top: 40px;
+  background-color: white;
+
+}
+nav a:hover{
+color:  #4d114c;
+}
+.T{
+  margin: 20px;
+  text-decoration: none;
+  color: black;
+}
+  .gf{
+    width: 100%;
+    height: 50px;
+    background-color: #e1e5eb;
+    position: absolute;
+    top: 200px;
+    justify-content: center;
+  }
+  .gf h2{
+    position: absolute;
+    top: -10px;
+    left: 90px;
+  }
+  .gf a{
+    text-decoration: none;
+    color: black;
+  }
+  .sale img{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 380px;
+    left: 200px;
+  }
+  .sale h2{
+    position: absolute;
+    top: 400px;
+    left: 750px;
+    color: black;
+  }
+  .sale p{
+    width: 400px;
+    position: absolute;
+    top: 450px;
+    left: 750px;
+  }
+  .sale h3{
+    position: absolute;
+    top: 620px;
+    left: 750px;
+    color: #4d114c;
+  }
+
+  .z{
+    position: absolute;
+    left: 750px;
+    top: 670px;
+  }
+  .zzz{
+    position: absolute;
+    left: 840px;
+    top: 670px;
+  }
+  .zxzz{
+    position: absolute;
+    left: 920px;
+    top: 670px;
+  }
+  .zz{
+    position: absolute;
+    left: 780px;
+    top: 670px;
+  }
+  .zxz{
+    position: absolute;
+    left:960px;
+    top: 670px;
+  }
+  .zzxz{
+    position: absolute;
+    left: 870px;
+    top: 670px;
+}
+.addt button{
+  width: 150px;
+  height: 30px;
+  background-color: #4d114c;color: white;
+  position: absolute;
+  left: 750px;
+  top: 750px;
+border: none;
+border-radius: 5px;
+}
+.addt a{
+  color: white;
+  text-decoration: none;
+  
+}
+.addt button:hover{
+  background-color: #4d114c;
+  transform: translate(1px,1px);
+}
+.FP{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 100%;
+  height: 700px;
+  background-color: #e1e5eb;
+  position: absolute;
+  top: 900px;
+  left: 0px;
+}
+.Fr img{
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  top: 150px;
+  left: 60px;
+}
+.ds{
+  width: 350px;
+  height: 200px;
+  background-color: white;
+  position: absolute;
+  top: 450px;
+  left: 60px;
+}
+.ds h2{
+  color: #bb42e3;
+  position: absolute;
+  left:120px;
+
+}
+.ds p{
+  color: #bb42e3;
+  position: absolute;
+  left:150px;
+  top: 110px;
+
+}
+.ds h4{
+  position: absolute;
+  left:90px;
+  top: 60px;
+
+}
+
+.L img{
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  top: 150px;
+  left: 510px;
+}
+.re{
+  width: 350px;
+  height: 200px;
+  background-color: white;
+  position: absolute;
+  top: 450px;
+  left: 510px;
+}
+.re h2{
+  color: #bb42e3;
+  position: absolute;
+  left:120px;
+
+}
+.re p{
+  color: #bb42e3;
+  position: absolute;
+  left:150px;
+  top: 110px;
+
+}
+.re h4{
+  position: absolute;
+  left:90px;
+  top: 60px;
+}
+
+.LL img{
+  width: 350px;
+  height: 300px;
+  position: absolute;
+  top: 150px;
+  left: 960px;
+}
+.jhl{
+  width: 350px;
+  height: 200px;
+  background-color: white;
+  position: absolute;
+  top: 450px;
+  left:960px;
+}
+.jhl h2{
+  color: #bb42e3;
+  position: absolute;
+  left:120px;
+
+}
+.jhl p{
+  color: #bb42e3;
+  position: absolute;
+  left:150px;
+  top: 110px;
+
+}
+.jhl h4{
+  position: absolute;
+  left:90px;
+  top: 60px;
+}
+.as{
+  position: absolute;
+  top: 15px;
+  font-size: 25px;
+}
+.dh{
+  position: absolute;
+  top: 1800px;
+  left: 100px;
+}
+.uu{
+  position: absolute;
+  top: 1850px;
+  left: 330px;
+}
+.ou{
+  position: absolute;
+  top: 1850px;
+  left: 560px;
+}
+.ouo img{
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  top: 1880px;
+  left: 760px;
+}
+.ouo h2{
+  position: absolute;
+  top: 1800px;
+  left: 760px;
+}
+.ouo h4{
+  position: absolute;
+  top: 2000px;
+  left: 760px;
+}
+.ouo p{
+  position: absolute;
+  top: 2030px;
+  left: 760px;
+}
+.oou{
+  position: absolute;
+  top: 1800px;
+  left: 1060px;
+}
+.bbg input{
+  position: absolute;
+  top: 2050px;
+  left: 1060px;
+  height: 30px;
+}
+.bbg h2{
+  position: absolute;
+  top: 1980px;
+  left: 1060px;
+
+}
+.bbg button{
+  position: absolute;
+  top: 2050px;
+  left: 1236px;
+  height: 35px;
+  width: 70px;
+  background-color: #bb42e3; color: white;
+  border-color: #bb42e3;
+  border-radius: 5px;
+}
+hr{
+position: relative;
+ top: 1760px;
+}
+.bbn{
+  position: relative;
+   top: 90px;
+}
+
+hr{
+  position: relative;
+  top: 1770px;
+
+}
+}
+.plo{
+  margin-bottom: 30px;
+
+}
+.plo p{
+  position: absolute;
+  top: 2150px;
+  left: 450px;
+}
