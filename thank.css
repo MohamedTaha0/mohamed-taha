@@ -1,0 +1,170 @@
+body{
+   overflow-x: hidden;
+}
+nav {
+  margin: 20px;
+  position: absolute;
+  top: 100px;
+  left: 320px;
+
+}
+.klj{
+  position: absolute;
+  left: 1200px;
+  top: 50px;
+}
+
+.search{
+  position: absolute;
+  top:40px;
+  left: 100px;
+
+}
+.search input{
+  width: 180px;
+  height: 30px;
+  border: none;
+}
+.loi button{
+  border: 4px solid black;
+  height: 35px;
+  width: 120px;
+  position: absolute;
+  left: 600px;
+  top: 40px;
+  background-color: white;
+
+}
+nav a:hover{
+color:  #4d114c;
+}
+.T{
+  margin: 20px;
+  text-decoration: none;
+  color: black;
+}
+.gf{
+  width: 100%;
+  height: 50px;
+  background-color: #e1e5eb;
+  position: absolute;
+  top: 200px;
+  justify-content: center;
+}
+.gf h2{
+  position: absolute;
+  top: -10px;
+  left: 90px;
+}
+.gf a{
+  text-decoration: none;
+  color: black;
+}
+.ff h1{
+  position: absolute;
+  top: 350px;
+  left:570px;
+  font-size: 40px;
+}
+.ff h4{
+  position: absolute;
+  top: 430px;
+  left: 560px;
+
+}
+.ff button{
+  width: 200px;
+  height: 35px;
+  background-color: #4d114c;color: white;
+  border-radius: 5px;
+  border: none;
+  position: absolute;
+  top: 550px;
+  left: 580px;
+}
+.dh{
+  position: absolute;
+  top: 800px;
+  left: 100px;
+}
+.uu{
+  position: absolute;
+  top: 850px;
+  left: 330px;
+}
+.ou{
+  position: absolute;
+  top: 850px;
+  left: 560px;
+}
+.ouo img{
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  top: 880px;
+  left: 760px;
+}
+.ouo h2{
+  position: absolute;
+  top: 800px;
+  left: 760px;
+}
+.ouo h4{
+  position: absolute;
+  top: 1000px;
+  left: 760px;
+}
+.ouo p{
+  position: absolute;
+  top: 1030px;
+  left: 760px;
+}
+.oou{
+  position: absolute;
+  top: 800px;
+  left: 1060px;
+}
+.bbg input{
+  position: absolute;
+  top: 1050px;
+  left: 1060px;
+  height: 30px;
+}
+.bbg h2{
+  position: absolute;
+  top: 980px;
+  left: 1060px;
+
+}
+.bbg button{
+  position: absolute;
+  top: 1050px;
+  left: 1236px;
+  height: 35px;
+  width: 70px;
+  background-color: #bb42e3; color: white;
+  border-color: #bb42e3;
+  border-radius: 5px;
+}
+hr{
+position: relative;
+ top: 860px;
+}
+.bbn{
+  position: relative;
+   top: 40px;
+}
+.hnh{
+  position: relative;
+   top: 970px;
+
+}
+.plo{
+  margin-bottom: 30px;
+
+}
+.plo p{
+  position: absolute;
+  top: 1150px;
+  left: 450px;
+}
