@@ -5,6 +5,12 @@ nav {
   left: 320px;
 
 }
+.klj{
+  position: absolute;
+  left: 1200px;
+  top: 50px;
+}
+
 .search{
   position: absolute;
   top:40px;

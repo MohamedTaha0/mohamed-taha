@@ -1,6 +1,11 @@
 body{
    overflow-x: hidden;
 }
+.klj{
+  position: absolute;
+  left: 1200px;
+  top: 50px;
+}
 .search{
   position: absolute;
   top:40px;
